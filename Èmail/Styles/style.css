@@ -1,0 +1,69 @@
+.inter-var {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .cabecalho {
+      display: flex;
+      align-items: center;
+      padding: 15px 20px;
+      
+  }
+  
+  .cabecalho a {
+      margin-left: 40px;
+      text-decoration: none;
+      color: black;
+      font-weight: bold;
+  }
+  
+  .msg {
+      border: 1px solid pink;
+      padding: 5px 10px;
+      font-size: 20px;
+  }
+  
+  .mid {
+      background-color: #E0E6E6;
+      padding: 50px;
+  }
+  
+  .mid h1 {
+      font-size: 40px;
+  }
+  
+  .mid p {
+      font-size: 18px;
+      margin-top: 20px;
+      line-height: 20px;
+      margin-bottom: 40px;
+  }
+  
+  .mid input {
+      padding: 10px;
+      margin-top: 20px;
+      margin-bottom: 40px;
+  }
+  
+  .mid button {
+      padding: 10px 20px;
+      background-color: white;
+      border: 1px solid black;
+      cursor: pointer;
+  }
+  
+  .mid .equipes {
+      color: purple;
+  }
+  
+  .final {
+      background-color:  #566D6D;
+      text-align: center;
+      padding: 20px;
+  }
+  
+  .final p {
+      color: white;
+  }
